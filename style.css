@@ -1,0 +1,52 @@
+html {
+    background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title  {
+    text-align: center;
+}
+
+.image-box {
+    background-color: #fff;
+    width: 100%;
+
+}
+
+#img-div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;  
+}
+
+#img-div p {
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    padding-bottom: 1rem;
+}
+
+.time-line h3{
+    text-align: center;
+    margin: 3rem;
+    
+}
+
+.time-line ul {
+    margin-left:auto;
+    margin-right: auto;
+    width: 40vw;
+}
+
+.time-line li{
+    padding-bottom: 1rem;
+}
+
+
+
+.quote {
+    margin-left:auto;
+    margin-right: auto;
+    width: 40vw;
+}
